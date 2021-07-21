@@ -1,0 +1,7 @@
+17:32:06.644 [TestNG-tests-3] INFO  resources.base - Navbar displayed
+17:32:07.629 [TestNG-tests-2] INFO  resources.base - Navigated to HomePage
+17:32:10.497 [TestNG-tests-1] INFO  resources.base - Restricet User
+17:39:27.035 [TestNG-tests-2] INFO  resources.base - Driver is Initialized
+17:39:33.213 [TestNG-tests-3] INFO  resources.base - Navbar displayed
+17:39:33.293 [TestNG-tests-2] INFO  resources.base - Navigated to HomePage
+17:39:36.013 [TestNG-tests-1] INFO  resources.base - Restricet User

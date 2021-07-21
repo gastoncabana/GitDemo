@@ -1,0 +1,8 @@
+13:38:54.179 [TestNG] INFO  resources.base - Navigated to HomePage
+13:38:58.389 [TestNG] INFO  resources.base - Navbar displayed
+13:39:00.130 [TestNG] INFO  resources.base - Restricet User
+13:39:40.986 [TestNG] INFO  resources.base - Driver is Initialized
+13:39:47.718 [TestNG] INFO  resources.base - Navigated to HomePage
+13:39:50.568 [TestNG] INFO  resources.base - Navbar displayed
+13:39:50.767 [TestNG] INFO  resources.base - Succesfully validated header Message
+13:39:52.595 [TestNG] INFO  resources.base - Restricet User
